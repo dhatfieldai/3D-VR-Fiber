@@ -4,7 +4,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/PabloOch/model-interactive-fiber.git
+$ git clone https://github.com/dhatfieldai/3D-VR-Fiber.git
 # Go into the repository
 $ cd model-interactive-fiber
 
